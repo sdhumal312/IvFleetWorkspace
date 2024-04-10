@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#DriverTable").DataTable({sScrollX:"100%", lengthMenu: [[10, 50, 100, -1], [10, 50, 100, "All"]], bScrollcollapse:!0,dom:"Blfrtip",buttons:["excel","print"],order:[[0,"desc"]]})}),$(document).ready(function(){$("#DriverReminderTable").DataTable({sScrollX:"100%",bScrollcollapse:!0,dom:"Blfrtip",buttons:["excel","print"],order:[[0,"desc"]]})});

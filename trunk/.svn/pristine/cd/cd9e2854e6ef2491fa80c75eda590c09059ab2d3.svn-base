@@ -1,0 +1,8 @@
+{ 
+isAutoVoucherNumber               : true,
+closeCashBookDaily                : true,
+allowZeroAmountCashBook  		  : true,
+addDriverBalanceInCashBook		  : true,
+checkAuthorityForCashBook         : true,
+addDueExpenseInCashBook			  : true
+}

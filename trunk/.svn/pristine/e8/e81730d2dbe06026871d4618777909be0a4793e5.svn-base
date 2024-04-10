@@ -1,0 +1,14 @@
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\controller\GpsController.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\repository\VehicleRepository.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\service\CompanyConfigurationService.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\model\VehicleGpsData.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\repository\VehicleGpsDataRepository.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\service\GpsApiService.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\constant\GpsApiConstant.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\GpsserviceApplication.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\util\ValueObject.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\constant\PropertyFileConstants.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\service\MemoryStats.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\service\ConfiguarationCacheService.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\model\Vehicle.java
+D:\workspace\tagg\gpsservice\src\main\java\com\fleetop\gpsservice\serviceImpl\ICompanyConfigurationService.java

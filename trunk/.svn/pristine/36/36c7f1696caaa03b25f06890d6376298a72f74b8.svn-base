@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: iv
+Build-Jdk: 20.0.1
+Implementation-Title: gpsservice
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.fleetop
+Implementation-URL: https://spring.io/projects/spring-boot/gpsservice
+Created-By: Maven Integration for Eclipse
+

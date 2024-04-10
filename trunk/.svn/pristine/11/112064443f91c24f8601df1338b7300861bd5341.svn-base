@@ -1,0 +1,5 @@
+sdk.dir=E:\\MobileAppSetup\\AndroidSDK\\android-sdk
+flutter.sdk=C:\\flutter_SDK
+flutter.buildMode=debug
+flutter.versionName=1.0.1
+flutter.versionCode=2

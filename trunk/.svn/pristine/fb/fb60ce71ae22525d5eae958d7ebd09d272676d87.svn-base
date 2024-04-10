@@ -1,0 +1,15 @@
+com\fleetop\gpsservice\service\GpsApiService.class
+com\fleetop\gpsservice\constant\GpsApiConstant.class
+com\fleetop\gpsservice\repository\VehicleRepository.class
+com\fleetop\gpsservice\constant\PropertyFileConstants.class
+com\fleetop\gpsservice\service\ConfiguarationCacheService.class
+com\fleetop\gpsservice\GpsserviceApplication.class
+com\fleetop\gpsservice\service\ConfiguarationCacheService$1.class
+com\fleetop\gpsservice\service\CompanyConfigurationService.class
+com\fleetop\gpsservice\service\MemoryStats.class
+com\fleetop\gpsservice\model\VehicleGpsData.class
+com\fleetop\gpsservice\repository\VehicleGpsDataRepository.class
+com\fleetop\gpsservice\model\Vehicle.class
+com\fleetop\gpsservice\util\ValueObject.class
+com\fleetop\gpsservice\controller\GpsController.class
+com\fleetop\gpsservice\serviceImpl\ICompanyConfigurationService.class
